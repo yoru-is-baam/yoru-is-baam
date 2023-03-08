@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/yoru-is-baam" target="_blank">Yoru</a>
 
 <!--
 **yoru-is-baam/yoru-is-baam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
