@@ -10,10 +10,10 @@
   
   
 ## About Me
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
+<img align="right" alt="GIF" src="https://media.tenor.com/Xlq2A0pmC3sAAAAd/anime-night.gif" width="480" height="320" />
 
 - 🏦 I am a junior student majoring in Software Engineering at Ton Duc Thang University
-      <img src="https://media.tenor.com/Xlq2A0pmC3sAAAAd/anime-night.gif" width="30">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌸 I’m interested in ExpressJS, NodeJS, OOP programming, Design Pattern,...
 - 🌱 I want to become a Full-stack Developer in the future.
 - 💻 I would like to earn a lot of money. Because I can use it for all the things in my family and past dreams.
