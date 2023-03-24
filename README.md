@@ -14,7 +14,7 @@
 
 - 🏦 I am a junior student majoring in Software Engineering at Ton Duc Thang University
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌸 I’m interested in ExpressJS, NodeJS, OOP programming, Design Pattern,...
+- 🌸 I’m interested in ExpressJS, NodeJS, OOP, Design Pattern,...
 - 🌱 I want to become a Full-stack Developer in the future.
 - 💻 I would like to earn a lot of money. Because I can use it for all the things in my family and past dreams.
 - 📖 I love all mysterious things in the world and universe.
