@@ -14,14 +14,11 @@
 ## 📄 About Me
 <img align="right" alt="GIF" src="https://media.tenor.com/Xlq2A0pmC3sAAAAd/anime-night.gif" width="480" height="320" />
 
-- 🏦 I am a senior student majoring in Software Engineering at Ton Duc Thang University
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌸 I’m interested in ExpressJS, NodeJS, OOP, Design Pattern,...
-- 🌱 I want to become a Full-stack Developer in the future.
-- 💻 I would like to earn a lot of money. Because I can use it for all the things in my family and past dreams.
+- 🌸 I'm interested in Node.js, Golang, maintaining CI/CD pipelines, containerized environments, and working with cloud technologies.
+- 🌱 I aim to be a dependable engineer, earning trust through my commitment and competence in handling tasks.
+- 💻 I want to make my dreams come true, even as I get older, not letting time or challenges get in the way of my goals.
 - 📖 I love all mysterious things in the world and universe.
-- 💬 Talk to me about NodeJS, ExpressJS, Design Pattern, OOP and related OOP topics, legend, fanstastic, anime, manga, music, ...
-- 🍁 Fact: I really like C++. But for me, it is very hard to master it.
+- 🍁 I really like C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <br>
 
 ## 💻 Technologys:
